@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sunnyland/Scenes/stage1.unity
+  isLoaded: 1
+  isActive: 1
