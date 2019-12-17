@@ -7,10 +7,9 @@
 # story
 judy는 숲속을 떠돌다 집으로 가야 할 시간이 되어 돌아가려 하지만, 이상한 숲으로 들어오게된다. 숲속에 살고 있는 몬스터와 각종 장애물들을 피해 집으로 돌아가야한다.
 ## judy go home 작업환경 
-![그림2](https://user-images.githubusercontent.com/55998706/70035387-182d9500-15f6-11ea-9da6-18f21e53c6bb.png)
-<br>
+![그림2](https://user-images.githubusercontent.com/55998706/70035387-182d9500-15f6-11ea-9da6-18f21e53c6bb.png)  
 ### 유니티
-</br>
+
 ## judy go home 스크린샷 
 ![image](https://user-images.githubusercontent.com/55998706/70967525-cf87d880-20d9-11ea-8f3d-468c79a12b31.png)
 ![image](https://user-images.githubusercontent.com/55998706/70967553-e0d0e500-20d9-11ea-92db-7a0e98530e45.png)
