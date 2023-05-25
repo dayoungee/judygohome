@@ -1,5 +1,6 @@
 # judy go home
 <div style="color:blue">2017.07(1인 개발 프로젝트)</div>
+judy go home.exe 실행파일, UnityPlyer.dll 파일, judy go home_data 디렉토리를 다운 받으시면 플레이 가능합니다.
 <img src="https://user-images.githubusercontent.com/55998706/70967525-cf87d880-20d9-11ea-8f3d-468c79a12b31.png"  width="600" height="400"/>
 
 ## 📘Technology Stack
