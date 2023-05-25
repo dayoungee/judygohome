@@ -1,7 +1,6 @@
 # judy go home
 <span style="color:blue">2017.07(1인 개발 프로젝트)</span>
-![image](https://user-images.githubusercontent.com/55998706/70967525-cf87d880-20d9-11ea-8f3d-468c79a12b31.png){: width="400" height="400"}
-<img src="https://user-images.githubusercontent.com/55998706/70967525-cf87d880-20d9-11ea-8f3d-468c79a12b31.png"  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/55998706/70967525-cf87d880-20d9-11ea-8f3d-468c79a12b31.png"  width="400" height="400"/>
 
 ## 📘Technology Stack
 - Clinet: Unity, C#
