@@ -1,6 +1,5 @@
 # judy go home
 2017.07(1인 개발 프로젝트)
-플랫포머형식의 2D게임
 ![image](https://user-images.githubusercontent.com/55998706/70967525-cf87d880-20d9-11ea-8f3d-468c79a12b31.png)
 
 ## 📘Technology Stack
@@ -14,6 +13,8 @@
  처음 만들어본 프로젝트이며, Unity에 대해서 공부할 수 있는 시간을 가지게 됐습니다. **개발이란 게 무엇인지 처음 깨닫게 해준 프로젝트입니다.**
 
  [협업 스터디 발표 상, 우수 상](https://www.notion.so/0bd7e3cf0b714210b3a623686e55a612)을 받았으며, [소프트웨어 학술제 공모전 2등](https://www.notion.so/540fd5c330614a10b948e90e4ccb7b9d)을 수상한 프로젝트입니다.
+ 
+ 오브젝트는 judy(plyaer), enmies, box, target, manager 로 구성되어 있으며 Sence은 타이틀, 스테이지, 게임오버, 게임 클리어, 퍼펙트게임 클리어 총 5개로 구성되어 있습니다. 에셋은 유니티 에셋 스토어의 무료 에셋인 sunnyland를 사용했습니다.
  
  ### 주요기능
 
